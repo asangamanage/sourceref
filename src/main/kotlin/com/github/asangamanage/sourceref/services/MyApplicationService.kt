@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.asangamanage.sourceref.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.asangamanage.sourceref.MyBundle
 
 class MyApplicationService {
 
